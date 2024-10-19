@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sue12345m
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Python.
-- 📫 How to reach me @github account.
+- 📫 How to reach me @Sue12345m.
 - 😄 Pronouns: She/her
 
 <!---
