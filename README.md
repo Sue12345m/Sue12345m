@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Sue12345m
-- 👀 I’m interested in Coding.
+- 👋 Hi, I’m @Suhur_mohamed
+- 👀 I’m interested in Maths.
 - 🌱 I’m currently learning Python.
-- 📫 How to reach me @Sue12345m.
+- 📫 How to reach me @suhurmohammed@workmail.com
 - 😄 Pronouns: She/her
+ 
 
 <!---
 Sue12345m/Sue12345m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
